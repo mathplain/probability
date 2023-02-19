@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/probability/static/css/main.bd92486d.css",
+    "main.js": "/probability/static/js/main.e2dd5f4e.js",
+    "static/js/787.f8febb93.chunk.js": "/probability/static/js/787.f8febb93.chunk.js",
+    "index.html": "/probability/index.html",
+    "main.bd92486d.css.map": "/probability/static/css/main.bd92486d.css.map",
+    "main.e2dd5f4e.js.map": "/probability/static/js/main.e2dd5f4e.js.map",
+    "787.f8febb93.chunk.js.map": "/probability/static/js/787.f8febb93.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd92486d.css",
+    "static/js/main.e2dd5f4e.js"
+  ]
+}
